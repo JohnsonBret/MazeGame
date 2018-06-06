@@ -1,6 +1,6 @@
-WindowsStandalone
+WebGL
 PlayerPath?
-J:/UnityProjects/3DGameDevUnity/Builds/MazeGame.exe
+J:/UnityProjects/3DGameDevUnity/Builds/Web
 SceneListBegin?
 Assets/Scenes/Start.unity
 Assets/Scenes/Level1.unity
